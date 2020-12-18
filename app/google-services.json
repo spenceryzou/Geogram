@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25627034611",
+    "project_id": "western-card-298707",
+    "storage_bucket": "western-card-298707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25627034611:android:21ec88c8a9ce650647c886",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.spencerzou.szougeopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25627034611-vn6kodmc1vepdt5tlqtchg7a5t7p8gr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_bpLNGqnCEidQXE6_z5bIpD5psmOViY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25627034611-vn6kodmc1vepdt5tlqtchg7a5t7p8gr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

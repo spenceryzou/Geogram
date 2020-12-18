@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSecondary">#ff7597</color>
+    <color name="colorPrimaryVariant">#ff0266</color>
+    <color name="colorOnPrimary">#d8004d</color>
+    <color name="owl_pink_200">#ff7597</color>
+    <color name="owl_pink_500">#ff0266</color>
+    <color name="owl_pink_600">#d8004d</color>
+    <color name="owl_pink_dark_primary">#24191c</color>
+</resources>
